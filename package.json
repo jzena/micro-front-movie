@@ -1,7 +1,7 @@
 {
-  "name": "movie-hooks",
+  "name": "micro-front-movie",
   "version": "0.1.0",
-  "homepage": "http://tzenaj.github.io/micro-front-movie",
+  "homepage": "https://jzena.github.io/micro-front-movie/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
