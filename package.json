@@ -1,8 +1,8 @@
 {
   "name": "micro-front-movie",
   "version": "0.1.0",
-  "homepage": "https://jzena.github.io/micro-front-movie/",
   "private": true,
+  "homepage": "https://jzena.github.io/micro-front-movie/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

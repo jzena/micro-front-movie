@@ -6,10 +6,11 @@ import Header from "../components/Header";
 import MovieDetail from "../components/MovieDetail";
 
 
+// const repo = `/${ window.location.pathname.split('/')[1] }`;
 const App = () => {
-
+  console.log('PUBLIC_URL:::', process.env.PUBLIC_URL);
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={ process.env.PUBLIC_URL }>
       <div className="App">
         <Header text="HOOKED" />
         <Switch>
