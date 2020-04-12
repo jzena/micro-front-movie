@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/micro-front-movie/static/css/main.bce2a2e2.chunk.css",
+    "main.js": "/micro-front-movie/static/js/main.0b43f370.chunk.js",
+    "main.js.map": "/micro-front-movie/static/js/main.0b43f370.chunk.js.map",
+    "runtime-main.js": "/micro-front-movie/static/js/runtime-main.86f99b4c.js",
+    "runtime-main.js.map": "/micro-front-movie/static/js/runtime-main.86f99b4c.js.map",
+    "static/js/2.744ffc72.chunk.js": "/micro-front-movie/static/js/2.744ffc72.chunk.js",
+    "static/js/2.744ffc72.chunk.js.map": "/micro-front-movie/static/js/2.744ffc72.chunk.js.map",
+    "index.html": "/micro-front-movie/index.html",
+    "precache-manifest.8e29956dd6a417c195d27b8fe5753817.js": "/micro-front-movie/precache-manifest.8e29956dd6a417c195d27b8fe5753817.js",
+    "service-worker.js": "/micro-front-movie/service-worker.js",
+    "static/css/main.bce2a2e2.chunk.css.map": "/micro-front-movie/static/css/main.bce2a2e2.chunk.css.map",
+    "static/js/2.744ffc72.chunk.js.LICENSE.txt": "/micro-front-movie/static/js/2.744ffc72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86f99b4c.js",
+    "static/js/2.744ffc72.chunk.js",
+    "static/css/main.bce2a2e2.chunk.css",
+    "static/js/main.0b43f370.chunk.js"
+  ]
+}
