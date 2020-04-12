@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc5d631d22a16e6e22cc2fe64f8948ed",
+    "revision": "6feae461d95370cb45d630e19e219ce4",
     "url": "/micro-front-movie/index.html"
   },
   {
-    "revision": "798277bb90cb8dcebd51",
+    "revision": "091920572e706ce8bdca",
     "url": "/micro-front-movie/static/css/main.bce2a2e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/micro-front-movie/static/js/2.e584aae9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "798277bb90cb8dcebd51",
-    "url": "/micro-front-movie/static/js/main.91a59b80.chunk.js"
+    "revision": "091920572e706ce8bdca",
+    "url": "/micro-front-movie/static/js/main.175741bc.chunk.js"
   },
   {
     "revision": "be250a13d4129ec8d3b7",
